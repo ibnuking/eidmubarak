@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ucapan Eid Mubarak</title>
-  <link rel="stylesheet" href="style.css">
-  <style>
-    body {
+
       background: #fceabb;
       background: linear-gradient(to right, #f8b500, #fceabb);
       font-family: 'Segoe UI', sans-serif;
